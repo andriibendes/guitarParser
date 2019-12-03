@@ -1,0 +1,9 @@
+D:\CB\OPP_LABA3\OPP_LABA3\obj\Debug\OPP_LABA3.csprojAssemblyReference.cache
+D:\CB\OPP_LABA3\OPP_LABA3\obj\Debug\OPP_LABA3.Form1.resources
+D:\CB\OPP_LABA3\OPP_LABA3\obj\Debug\OPP_LABA3.Properties.Resources.resources
+D:\CB\OPP_LABA3\OPP_LABA3\obj\Debug\OPP_LABA3.csproj.GenerateResource.cache
+D:\CB\OPP_LABA3\OPP_LABA3\bin\Debug\OPP_LABA3.exe.config
+D:\CB\OPP_LABA3\OPP_LABA3\bin\Debug\OPP_LABA3.exe
+D:\CB\OPP_LABA3\OPP_LABA3\bin\Debug\OPP_LABA3.pdb
+D:\CB\OPP_LABA3\OPP_LABA3\obj\Debug\OPP_LABA3.exe
+D:\CB\OPP_LABA3\OPP_LABA3\obj\Debug\OPP_LABA3.pdb
